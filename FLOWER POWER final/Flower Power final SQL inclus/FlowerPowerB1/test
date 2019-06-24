@@ -1,0 +1,5 @@
+char* what = "nom_plante";
+char* where = "plante";
+int row = 15;
+
+selectBDD(what, where, row);
